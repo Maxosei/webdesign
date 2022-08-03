@@ -92,7 +92,21 @@ nav{
     align-items: center;
    
 }
+.sec_header .sec_header_content div{
+    display: flex;margin-top: 1rem;
+}
+.sec_header button{
+    color: white;
+    background: #ff6200;
+    width:120px ;
+    height: 45px;font-size: 700;
+}
+.sec_header input{
+    width: 180px;
+    height: 45px;
+    color: black;
 
+}
 
 
 /* ==========================SUBFOOTER ====================*/
